@@ -2,6 +2,8 @@ import { Prilika } from "./Prilika.js";
 
 export class Grad{
 
+    //izmena za github
+    
     constructor(id, naziv, longitude, latitude){
         this.id = id;
         this.naziv = naziv;
