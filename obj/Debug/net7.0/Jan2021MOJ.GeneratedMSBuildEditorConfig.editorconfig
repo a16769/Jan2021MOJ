@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Jan2021MOJ
+build_property.RootNamespace = Jan2021MOJ
+build_property.ProjectDir = c:\Users\Andjelija\Documents\5. semestar\WEB\Računske vežbe 2022 (samo Darkove) + BLANKETI\Radjeni blanketi\Jan2021MOJ\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Andjelija\Documents\5. semestar\WEB\Računske vežbe 2022 (samo Darkove) + BLANKETI\Radjeni blanketi\Jan2021MOJ
+build_property._RazorSourceGeneratorDebug = 
